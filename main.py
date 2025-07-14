@@ -17,8 +17,10 @@ lista = [1,2,3,4,5]
 # Métodos
 lista_invertida = lista.reverse()
 
-# Estilos
+# Nascimento
 
-estilo = "chavoso"
+ano = 1995
 
-print(estilo)
+print(ano)
+
+novo_ano = 1995 + 5
