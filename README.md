@@ -20,4 +20,7 @@ Este é o meu primeiro README
 
 *Teste*
 
+*Teste 2*
+
+**IA irá dominar o Hello World**
 
